@@ -71,4 +71,10 @@ pio run --target upload
 
 ## Team
 
-This repository is a fork. The web application was developed by the original author. The `hardware/` directory (PCB design, firmware) was added separately as the embedded hardware prototype.
+| Name |
+|------|
+| [Sinem Unlu](https://github.com/sinem-unlu-sf) |
+| [Cristian Rosca](https://github.com/explodechris) |
+| [Enkh-Oyun Tsend-Ayush] |
+| [Rida Habib] |
+| [Muhammad Habib] |
