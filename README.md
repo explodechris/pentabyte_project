@@ -71,10 +71,8 @@ pio run --target upload
 
 ## Team
 
-| Name |
-|------|
-| [Sinem Unlu](https://github.com/sinem-unlu-sf) |
-| [Cristian Rosca](https://github.com/explodechris) |
-| [Enkh-Oyun Tsend-Ayush] |
-| [Rida Habib] |
-| [Muhammad Habib] |
+[Sinem Unlu](https://github.com/sinem-unlu-sf)\
+[Cristian Rosca](https://github.com/explodechris)\
+Enkh-Oyun Tsend-Ayush\
+Rida Habib\
+Muhammad Habib
